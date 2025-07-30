@@ -67,11 +67,7 @@ Conduct thorough testing to ensure that all components interact correctly and ef
 
 When users send queries, leverage the Agent to analyze the request, interact with the relevant tools through MCP, and return the necessary information.
 
-## VII. Conclusion
-
-This guide outlines how to integrate LLMs, Agents, and MCPs for developing AI applications. By utilizing these technologies cohesively, developers can create more intelligent, automated solutions. We hope this document aids readers in navigating the AI development process effectively and enables them to embark on their application development journey.
-
-## VIII. Appendix
+## VII. Appendix
 
 ### A. RAG (Retrieval-Augmented Generation)
 
