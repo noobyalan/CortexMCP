@@ -24,6 +24,8 @@ MCP is an open standard that connects AI assistants with external systems, facil
 
 
 ## III. Development Process
+<img width="882" height="696" alt="image" src="https://github.com/user-attachments/assets/8e06bf3d-3437-4350-b25d-626bda833447" />
+
 
 ### A. Environment Setup
 
