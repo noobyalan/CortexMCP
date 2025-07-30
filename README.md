@@ -3,17 +3,19 @@
 ## I. Introduction
 
 The rapid development of artificial intelligence has made technologies like Large Language Models (LLMs), Agents, and Model Context Protocols (MCPs) critical drivers of AI application development. These technologies collaborate to provide robust support for building intelligent and efficient AI applications.
-<img width="1496" height="480" alt="image" src="https://github.com/user-attachments/assets/629e3626-f3dd-4ddc-8162-e2af3595fe33" />
+
 
 ## II. Core Concepts
 
 ### A. Large Language Model (LLM)
 
 LLMs are natural language processing tools based on deep learning techniques, trained on extensive datasets to provide strong language understanding and generation capabilities. For example, when a user inquires about the weather, the LLM can interpret the query's semantics and generate a relevant response. Common LLMs include the GPT series and others like Wenxin Yiyan and Deepseek.
-
+<img width="1460" height="458" alt="image" src="https://github.com/user-attachments/assets/b397789b-18b8-4e51-b430-3cff44806ed6" />
 ### B. Agent
 
 An Agent is an AI system that can autonomously perceive its environment, make decisions, and take actions to achieve specific goals. On top of a LLM, an Agent utilizes tools or plugins to enhance its interaction with the real world. For instance, when a user requests external information, the Agent interprets the question using the LLM and calls relevant tools to accomplish the task, such as fetching inter-store communication data.
+<img width="1734" height="934" alt="image" src="https://github.com/user-attachments/assets/cf0c63b8-cd55-4072-939b-ea081e21a468" />
+
 
 ### C. Model Context Protocol (MCP)
 
