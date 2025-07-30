@@ -20,6 +20,8 @@ An Agent is an AI system that can autonomously perceive its environment, make de
 ### C. Model Context Protocol (MCP)
 
 MCP is an open standard that connects AI assistants with external systems, facilitating standardized communication between AI models and external data sources or tools. MCP servers provide a unified interface, simplifying and enhancing the integration of AI with various systems. In development, MCP can help retrieve contextual information, such as user interaction history, to better understand intent and provide more accurate responses.
+![Uploading image.png…]()
+
 
 ## III. Development Process
 
