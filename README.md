@@ -2,7 +2,7 @@
 
 ## I. Introduction
 
-The rapid development of artificial intelligence has made technologies like Large Language Models (LLMs), Agents, and Model Context Protocols (MCPs) critical drivers of AI application development. These technologies collaborate to provide robust support for building intelligent and efficient AI applications. This document will detail the process of implementing these technologies in AI development, leveraging a simple AI chatbot as a demonstration to aid readers in getting started quickly.
+The rapid development of artificial intelligence has made technologies like Large Language Models (LLMs), Agents, and Model Context Protocols (MCPs) critical drivers of AI application development. These technologies collaborate to provide robust support for building intelligent and efficient AI applications.
 <img width="1496" height="480" alt="image" src="https://github.com/user-attachments/assets/629e3626-f3dd-4ddc-8162-e2af3595fe33" />
 
 ## II. Core Concepts
